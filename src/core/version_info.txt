@@ -1,0 +1,29 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1,0,0,0),
+    prodvers=(1,0,0,0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+    ),
+  kids=[
+    StringFileInfo(
+      [
+      StringTable(
+        u'040904B0',
+        [StringStruct(u'CompanyName', u'ProQuants Development Team'),
+        StringStruct(u'FileDescription', u'ProQuants Professional Trading System - ML-Enhanced CREAM Strategy'),
+        StringStruct(u'FileVersion', u'1.0.0.0'),
+        StringStruct(u'InternalName', u'ProQuants_Professional'),
+        StringStruct(u'LegalCopyright', u'© 2024 Dominic. All rights reserved.'),
+        StringStruct(u'OriginalFilename', u'ProQuants_Professional.exe'),
+        StringStruct(u'ProductName', u'ProQuants Professional Trading System'),
+        StringStruct(u'ProductVersion', u'1.0.0.0'),
+        StringStruct(u'Comments', u'Complete CREAM Strategy with Neural Networks and Fractal Learning')])
+      ]), 
+    VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
+  ]
+)
